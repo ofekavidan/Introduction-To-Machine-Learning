@@ -9,6 +9,65 @@ An introductory code to the world of machine- and statistical learning, aimed fo
 5) Skeleton files for course exercises
 
 
+---
+
+## 📚 Table of Contents
+
+- [Exercise 1: House Price Prediction & Temperature Analysis](#exercise-1-house-price-prediction--temperature-analysis)
+- [Exercise 2: Classifier Evaluation and Loss Functions](#exercise-2-classifier-evaluation-and-loss-functions)
+- [Exercise 3: Boosting and AdaBoost](#exercise-3-boosting-and-adaboost)
+- [Exercise 4: Logistic Regression and Gradient Descent Investigation](#exercise-4-logistic-regression-and-gradient-descent-investigation)
+- [How to Run the Projects](#how-to-run-the-projects)
+- [License](#license)
+
+---
+
+## Exercise 1: House Price Prediction & Temperature Analysis
+
+In this exercise, linear and polynomial regression models were used to predict house prices and analyze city temperature data over time. The main objective was to understand how regression techniques can model real-world data.
+
+- **Key Topics**: Linear Regression, Polynomial Fitting, Data Preprocessing.
+- **Technologies**: Python, NumPy, Scikit-learn.
+
+[More Details](https://github.com/ofekavidan/Introduction-To-Machine-Learning/tree/main/exercises/exercise%201)
+
+---
+
+## Exercise 2: Classifier Evaluation and Loss Functions
+
+This exercise focused on implementing and evaluating several classifiers such as Naive Bayes, Logistic Regression, and SVM. The models were optimized using different loss functions and were evaluated using various performance metrics.
+
+- **Key Topics**: Naive Bayes, Logistic Regression, SVM, Loss Functions.
+- **Technologies**: Python, NumPy, Scikit-learn.
+
+[More Details](https://github.com/ofekavidan/Introduction-To-Machine-Learning/tree/main/exercises/exercise%202)
+
+---
+
+## Exercise 3: Boosting and AdaBoost
+
+In this exercise, the AdaBoost algorithm was implemented using weak classifiers like decision stumps. The objective was to explore the power of boosting techniques in building strong classifiers from weak learners.
+
+- **Key Topics**: AdaBoost, Decision Stumps, Boosting Algorithms.
+- **Technologies**: Python, NumPy, Scikit-learn.
+
+[More Details](https://github.com/ofekavidan/Introduction-To-Machine-Learning/tree/main/exercises/exercise%203)
+
+---
+
+## Exercise 4: Logistic Regression and Gradient Descent Investigation
+
+This exercise involved implementing logistic regression with gradient descent as the optimization method. An investigation into the impact of various learning rates on gradient descent convergence was conducted, with visualizations of the optimization process.
+
+- **Key Topics**: Logistic Regression, Gradient Descent, Learning Rate Tuning.
+- **Technologies**: Python, NumPy, Matplotlib.
+
+[More Details](https://github.com/ofekavidan/Introduction-To-Machine-Learning/tree/main/exercises/exercise%204)
+
+---
+
+
+
 ## Setting Up Code and Labs Environment
 Set a local copy of this GitHub repository. Do so by [forking and cloning the repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo) or [cloning the repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) using GitBash and 
 ```
