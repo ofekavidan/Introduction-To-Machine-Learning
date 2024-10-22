@@ -17,8 +17,7 @@ An introductory code to the world of machine- and statistical learning, aimed fo
 - [Exercise 2: Classifier Evaluation and Loss Functions](#exercise-2-classifier-evaluation-and-loss-functions)
 - [Exercise 3: Boosting and AdaBoost](#exercise-3-boosting-and-adaboost)
 - [Exercise 4: Logistic Regression and Gradient Descent Investigation](#exercise-4-logistic-regression-and-gradient-descent-investigation)
-- [How to Run the Projects](#how-to-run-the-projects)
-- [License](#license)
+
 
 ---
 
